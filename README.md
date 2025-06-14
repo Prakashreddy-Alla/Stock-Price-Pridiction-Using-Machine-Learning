@@ -31,9 +31,8 @@ cd stock-prediction-cnn-bilstm
 
 Install dependencies:
 pip install -r requirements.txt
+
 Launch the notebook:
-
-
 jupyter notebook CNN+BiLSTM.ipynb
 
 ✅ Results
