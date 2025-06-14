@@ -3,9 +3,7 @@ This project leverages a hybrid deep learning model combining Convolutional Neur
 
 🧠 Model Architecture
 CNN Layers: Capture short-term temporal features and local patterns in the time series data.
-
 BiLSTM Layers: Model long-term dependencies in both forward and backward directions.
-
 Dense Layers: Output predicted stock prices.
 
 🗂️ Project Structure
