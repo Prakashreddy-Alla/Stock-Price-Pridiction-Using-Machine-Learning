@@ -9,9 +9,7 @@ BiLSTM Layers: Model long-term dependencies in both forward and backward directi
 Dense Layers: Output predicted stock prices.
 
 🗂️ Project Structure
-bash
-Copy
-Edit
+
 ├── CNN+BiLSTM.ipynb     # Main notebook with preprocessing, model training and evaluation
 ├── README.md            # Project documentation
 └── requirements.txt     # Python dependencies (optional, create if needed)
