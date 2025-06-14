@@ -26,7 +26,7 @@ Multistep prediction for future stock values.
 🚀 How to Run
 Clone this repository:
 
-git clone https://github.com/yourusername/stock-prediction-cnn-bilstm.git
+git clone https://github.com/Prakashreddy-Alla/Stock-Price-Pridiction-Using-Machine-Learning.git
 cd stock-prediction-cnn-bilstm
 
 Install dependencies:
